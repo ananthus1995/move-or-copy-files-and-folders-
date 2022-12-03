@@ -1,7 +1,7 @@
 import os
 
 import shutil
-from datetime import datetime
+
 import time
 
 root_src_dir = r'/home/user/ann/myfolder'
