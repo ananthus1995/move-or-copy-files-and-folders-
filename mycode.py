@@ -4,8 +4,8 @@ import shutil
 from datetime import datetime
 import time
 
-root_src_dir = r'/home/equipo/Projects/AWSS3/media/uploads'
-root_dst_dir = r'/home/equipo/Documents'
+root_src_dir = r'/home/user/ann/myfolder'
+root_dst_dir = r'/home/Documents'
 now = datetime.now()
 
 try:
